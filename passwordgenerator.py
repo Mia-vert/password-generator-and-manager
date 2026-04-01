@@ -20,6 +20,5 @@ def save_password(password, filename):
 filename = 'password.txt'
 save_password(strong_password, filename)
 print(f"Password saved to {filename}")    
-# is there a way to add numbers and special characters to the password
       
 
